@@ -260,7 +260,7 @@ sub build_ui {
 
 # VBox
   my $vbox;
-  $vbox = Gtk2::VBox->new(FALSE, 0);
+  $vbox = Gtk2::VBox->new(TRUE, 5);
   $frame->add($vbox);
 
 # HBox
