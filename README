@@ -1,3 +1,6 @@
+This version is a clone fixing a gtk problem that hid the Host List.
+
+You will need to install it from source. Instructions are in INSTALL.
 
 SelfControl for Linux
 
